@@ -1,0 +1,7 @@
+C:\Users\GERARDO\Documents\Visual Studio 2017\Projects\PruebasConsola\PruebasConsola\bin\Debug\PruebasConsola.exe.config
+C:\Users\GERARDO\Documents\Visual Studio 2017\Projects\PruebasConsola\PruebasConsola\bin\Debug\PruebasConsola.exe
+C:\Users\GERARDO\Documents\Visual Studio 2017\Projects\PruebasConsola\PruebasConsola\bin\Debug\PruebasConsola.pdb
+C:\Users\GERARDO\Documents\Visual Studio 2017\Projects\PruebasConsola\PruebasConsola\obj\Debug\PruebasConsola.csprojAssemblyReference.cache
+C:\Users\GERARDO\Documents\Visual Studio 2017\Projects\PruebasConsola\PruebasConsola\obj\Debug\PruebasConsola.csproj.CoreCompileInputs.cache
+C:\Users\GERARDO\Documents\Visual Studio 2017\Projects\PruebasConsola\PruebasConsola\obj\Debug\PruebasConsola.exe
+C:\Users\GERARDO\Documents\Visual Studio 2017\Projects\PruebasConsola\PruebasConsola\obj\Debug\PruebasConsola.pdb
