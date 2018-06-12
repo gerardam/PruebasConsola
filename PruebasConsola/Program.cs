@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace PruebasConsola
 {
@@ -14,7 +10,7 @@ namespace PruebasConsola
             int num2 = 3;
             int resultado = num1 + num2;
 
-            Console.WriteLine("El resultado es: "+resultado);
+            Console.WriteLine("El resultado es: " + resultado);
             Console.ReadLine();
         }
     }
