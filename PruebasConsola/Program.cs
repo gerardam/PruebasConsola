@@ -14,6 +14,7 @@ namespace PruebasConsola
             int valor2 = 3;
             int resultado = valor1 + valor2;
             Console.WriteLine("El resultado es: " + resultado);
+
             Console.ReadLine();
         }
     }
