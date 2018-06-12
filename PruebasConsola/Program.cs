@@ -1,5 +1,10 @@
 ﻿using System;
 
+//=kk==kk====ccc================================================
+//=kk=kk===cc====|      <> Ejemplo de consola </>     |=== = ===
+//=kkk=====cc====|             { Kyocode }            |== === ==
+//=kk=kk===cc====|       /* www.kyocode.com */        |=== == ==
+//=kk==kk====ccc================================================
 namespace PruebasConsola
 {
     class Program
