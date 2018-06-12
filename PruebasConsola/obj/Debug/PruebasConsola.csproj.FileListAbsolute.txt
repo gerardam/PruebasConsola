@@ -5,3 +5,10 @@ C:\Users\GERARDO\Documents\Visual Studio 2017\Projects\PruebasConsola\PruebasCon
 C:\Users\GERARDO\Documents\Visual Studio 2017\Projects\PruebasConsola\PruebasConsola\obj\Debug\PruebasConsola.csproj.CoreCompileInputs.cache
 C:\Users\GERARDO\Documents\Visual Studio 2017\Projects\PruebasConsola\PruebasConsola\obj\Debug\PruebasConsola.exe
 C:\Users\GERARDO\Documents\Visual Studio 2017\Projects\PruebasConsola\PruebasConsola\obj\Debug\PruebasConsola.pdb
+C:\Pruebas\PruebaGhDeVS\PruebasConsola\PruebasConsola\bin\Debug\PruebasConsola.exe.config
+C:\Pruebas\PruebaGhDeVS\PruebasConsola\PruebasConsola\bin\Debug\PruebasConsola.exe
+C:\Pruebas\PruebaGhDeVS\PruebasConsola\PruebasConsola\bin\Debug\PruebasConsola.pdb
+C:\Pruebas\PruebaGhDeVS\PruebasConsola\PruebasConsola\obj\Debug\PruebasConsola.csprojAssemblyReference.cache
+C:\Pruebas\PruebaGhDeVS\PruebasConsola\PruebasConsola\obj\Debug\PruebasConsola.csproj.CoreCompileInputs.cache
+C:\Pruebas\PruebaGhDeVS\PruebasConsola\PruebasConsola\obj\Debug\PruebasConsola.exe
+C:\Pruebas\PruebaGhDeVS\PruebasConsola\PruebasConsola\obj\Debug\PruebasConsola.pdb

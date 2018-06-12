@@ -10,9 +10,9 @@ namespace PruebasConsola
     {
         static void Main(string[] args)
         {
-            int num1 = 4;
-            int num2 = 3;
-            int resultado = num1 + num2;
+            int valor1 = 4;
+            int valor2 = 3;
+            int resultado = valor1 + valor2;
 
             Console.WriteLine("El resultado es: " + resultado);
             Console.ReadLine();
