@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Data;
 
 //| || // |=|====================================================//
 //| ||//  |=| Ejemplo de consola                                //
@@ -10,12 +11,15 @@ namespace PruebasConsola
     {
         static void Main(string[] args)
         {
-            int valor1 = 4;
-            int valor2 = 3;
-            int resultado = valor1 + valor2;
-            Console.WriteLine("El resultado es: " + resultado);
+            //Crear DataTable
+            DataTable tablaUno = new DataTable("NombreTablaUno");
+            tablaUno.Columns.Add("Numero");
+            tablaUno.Columns.Add("Nombre");
 
-            Console.ReadLine();//Evita que la consola desaparezca rapidamente
+            //Establecer tipos de datos
+            DataTable tablaDos = new DataTable("NombreTablaDos");
+            tablaDos.Columns.Add("Numero", typeof(int));
+            tablaDos.Columns.Add("Nombre", typeof(string));
         }
     }
 }
