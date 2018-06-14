@@ -1,6 +1,6 @@
-//|-||-//--((|+|====================================================  
-//|-||//-((-|+| Ejemplo de consola  
-//|-||\\\\-((-|+| Kyocode | www.kyocode.com  
+//|-||-//--((-|+|====================================================  
+//|-||//-((---|+| Ejemplo de consola  
+//|-||\\\\-((---|+| Kyocode | www.kyocode.com  
 //|-||-\\\\--((-|+|====================================================  
 
 La aplicación es un ejemplo para fines educativos y la realización de pruebas de programación básica.
